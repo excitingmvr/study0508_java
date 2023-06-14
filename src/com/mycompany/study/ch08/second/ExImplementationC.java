@@ -15,5 +15,4 @@ public class ExImplementationC {
 		interfaceC.methodC();
 		
 	}
-
 }
